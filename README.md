@@ -1,5 +1,7 @@
 # Looping with a Counter
 
+[Reference from BJC](https://bjc.edc.org/bjc-r/cur/programming/1-introduction/3-drawing/6-the-for-block.html?topic=nyc_bjc%2F1-intro-loops.topic&course=bjc4nyc.html&novideo&noassignment)
+
 Computer scientists describe this program structure as looping, repetition, or iteration. Sequencing, selection, and iteration are building blocks of algorithms.
 
 In the previous lab, when we were drawing shapes, we used the **repeat** block to loop a specific number of times.
